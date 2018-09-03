@@ -31,11 +31,11 @@
   <script>
   	describe("pow", function() {
 
-      it("multiplication of two digits", function() {
-        assert.equal(pow(3, 3), 9);
-      });	
+	 it("multiplication of two digits", function() {
+	    assert.equal(pow(3, 3), 9);
+	 });	
 
-		});
+	});
   </script>
 
   <!-- Test results -->
